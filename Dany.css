@@ -2,7 +2,6 @@
 section{
   display: flex;
   flex-wrap: wrap;
-  flex-direction: row-reverse;
 }
 article{
   padding: 20px;
